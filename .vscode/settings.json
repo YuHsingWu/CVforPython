@@ -1,0 +1,11 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.linting.enabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.autoComplete.extraPaths": [
+        "/anaconda/lib/python3.6/site-packages"
+    ]
+}
